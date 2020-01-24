@@ -1,6 +1,7 @@
 {
 	"name": "fs.promisify",
 	"version": "1.0.7",
+	"description": "Wrap all fs functions to be promisify.",
 	"keywords": [],
 	"homepage": "https://github.com/anzerr/fs.promisify#readme",
 	"bugs": {
