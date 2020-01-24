@@ -2,7 +2,12 @@
 	"name": "fs.promisify",
 	"version": "1.0.9",
 	"description": "Wrap all fs functions to be promisify.",
-	"keywords": [],
+	"keywords": [
+		"fs",
+		"nodejs",
+		"promise",
+		"util"
+	],
 	"homepage": "https://github.com/anzerr/fs.promisify#readme",
 	"bugs": {
 		"url": "https://github.com/anzerr/fs.promisify/issues"
