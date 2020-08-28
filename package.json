@@ -1,6 +1,6 @@
 {
 	"name": "fs.promisify",
-	"version": "1.0.12",
+	"version": "1.0.13",
 	"description": "Wrap all fs functions to be promisify.",
 	"keywords": [
 		"fs",
